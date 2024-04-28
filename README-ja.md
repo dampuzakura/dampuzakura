@@ -16,6 +16,7 @@
 
 # SNS
 ぜひフォローしてください。
+- [Bluesky @dampuzakura.bsky.social](https://bsky.app/profile/dampuzakura.bsky.social)
 - [Facebook](https://www.facebook.com/profile.php?id=61558987980209)
 - [Instagram @dampuzakura](https://instagram.com/dampuzakura)
 - [Misskey @dampuzakura@misskey.io](https://misskey.io/@dampuzakura)
